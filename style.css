@@ -1,0 +1,41 @@
+#title h1{
+  font-size: 45px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-bottom: 5px solid gray;
+  text-decoration: none;
+}
+#title a{
+  color: dimgray;
+  text-decoration: none;
+}
+#grid a{
+  color: blue;
+  text-decoration: none;
+}
+#grid ol{
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  border-bottom: 5px solid gray;
+}
+#grid li{
+  padding-right: 30px;
+  float: left;
+}
+#inner li{
+  padding-right: 30px;
+  float: inherit;
+}
+p{
+  margin: 10px;
+}
+img{
+  width: 10%;
+  padding: 10px;
+  float: left;
+}
+#real_picture{
+  width:5000px;
+}
